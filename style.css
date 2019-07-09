@@ -1,0 +1,16 @@
+.heading {
+    color: slategray;
+    text-align: center;
+}
+.date {
+    color: teal;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: medium;
+}
+.time {
+    color: steelblue;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: medium;
+}
